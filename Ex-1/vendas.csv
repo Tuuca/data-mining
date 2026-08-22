@@ -1,0 +1,31 @@
+id_venda,data,produto,categoria,quantidade,valor_unitario,estado_cliente
+1,2025-12-03,Smartphone X200,Eletrônicos,1,1999.90,SP
+2,2025-12-07,Notebook Pro 15,Informática,2,4599.00,RJ
+3,2025-12-10,Fone Bluetooth J5,Acessórios,3,89.90,MG
+4,2025-12-14,Smart TV 50 4K,Eletrônicos,1,2799.00,SP
+5,2025-12-18,Teclado Mecânico RGB,Informática,2,299.90,PR
+6,2025-12-21,Caixa de Som Portátil,Áudio,4,159.90,SC
+7,2025-12-25,Pendrive 64GB,Informática,5,39.90,RS
+8,2025-12-28,Cadeira Ergonômica,Móveis,1,1250.00,SP
+9,2025-12-30,Mouse Gamer X7,Informática,3,149.50,BA
+10,2026-01-02,Notebook Pro 15,Informática,1,4599.00,RJ
+11,2026-01-04,Monitor 27 4K,Eletrônicos,2,1899.00,MG
+12,2026-01-05,Fone Bluetooth J5,Acessórios,5,89.90,SP
+13,2026-01-07,Caixa de Som Portátil,Áudio,2,159.90,PR
+14,2026-01-08,Smart TV 50 4K,Eletrônicos,1,2799.00,SC
+15,2026-01-09,Teclado Mecânico RGB,Informática,3,299.90,RS
+16,2026-01-10,Cadeira Ergonômica,Móveis,1,1250.00,SP
+17,2026-01-11,Smartphone X200,Eletrônicos,2,1999.90,BA
+18,2026-01-12,Mouse Gamer X7,Informática,4,149.50,RJ
+19,2026-01-13,Pendrive 64GB,Informática,8,39.90,MG
+20,2026-01-14,Notebook Pro 15,Informática,1,4599.00,SP
+21,2026-01-15,Fone Bluetooth J5,Acessórios,3,89.90,PR
+22,2026-01-16,Caixa de Som Portátil,Áudio,6,159.90,SC
+23,2026-01-17,Smart TV 50 4K,Eletrônicos,2,2799.00,RS
+24,2026-01-18,Teclado Mecânico RGB,Informática,1,299.90,SP
+25,2026-01-19,Cadeira Ergonômica,Móveis,2,1250.00,BA
+26,2026-01-20,Smartphone X200,Eletrônicos,1,1999.90,RJ
+27,2026-01-21,Mouse Gamer X7,Informática,3,149.50,MG
+28,2026-01-22,Monitor 27 4K,Eletrônicos,1,1899.00,SP
+29,2026-01-23,Notebook Pro 15,Informática,1,4599.00,PR
+30,2026-01-25,Pendrive 64GB,Informática,6,39.90,SC
