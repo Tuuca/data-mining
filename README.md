@@ -4,4 +4,4 @@ Repositório direcionado para armazenar atividades da disciplina.
 
 ## Estrutura do Repositório
 O repositório está organizado da seguinte forma:
-- `Exercicio-X/`: Contém os arquivos relacionados ao exercício respectivo.
+- `Lista-*/`: Contém a pasta de cada lista de exercícios, onde `*` representa o número da lista e seu respectivo conteúdo.
